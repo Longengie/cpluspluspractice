@@ -1,0 +1,10 @@
+Aloysius    Alfalfa     Customer rating is good.
+Francis     Alfred      Customer rating is good.
+Gramma      Gerty       Customer rating is ok.
+Alexis      Android     Customer rating is good.
+Fred        Bumpkin     Customer rating is ok.
+Betty       Rubble      Customer rating is ok.
+Cecil       Noshow      Customer rating is ok.
+Bif         Buff        Customer rating is ok.
+Andrew      Airpump     Customer rating is good.
+Jim         Backus      Customer rating is excellent.

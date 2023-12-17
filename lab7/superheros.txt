@@ -1,0 +1,6 @@
+Hulk        100  10  50  90  80
+Batman       50  90  70  70  70
+Ironman      90  95  80 100  90
+Blackwidow   40  80  70  60 100
+Flash        50  60 100  30  60
+Spiderman    40  70  60  50  60
